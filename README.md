@@ -18,7 +18,7 @@
 | 1   | Real MySQL 1권      | 백은빈, 이성욱 | 위키북스       | 2024    |
 
 
-### Presentation 
+### Presentations 
 
 | No.  | Title               |  Keywords  | Presented At |
 |------|---------------------|----------------|----------|
