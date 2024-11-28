@@ -29,8 +29,8 @@
 
 
 #### 2) 프로젝트 문서 
-| Title                                                        | Subject                          | Keywords |  Publish At | 
-|--------------------------------------------------------------|----------------------------------|------------| ------------|
+| Title                                                     | Subject                          | Keywords |  Publish At | 
+|-----------------------------------------------------------|----------------------------------|----------| ------------|
 | ['최근 3일간 판매량 Top30 콘서트' 캐시 도입 보고서](https://github.com/LeeJaeYun7/concertTicket/blob/master/docs/CACHE_REPORT.md)| 콘서트 예약 서비스  | Redis, 캐시 | 2024.11    |
 | [Redis 서킷 브레이커 도입 보고서](https://github.com/LeeJaeYun7/concertTicket/blob/master/docs/REDIS_CIRCUIT_BREAKER.md) | 콘서트 예약 서비스 | Redis, MSA          | 2024.11    |
 | ['1만명 동시 접속자 레디스 대기열' 도입 보고서 1편](https://github.com/LeeJaeYun7/concertTicket/blob/master/docs/REDIS_WAITING_QUEUE_REPORT.md) | 콘서트 예약 서비스 | Redis, Redis Sorted Set, 대용량 트래픽 | 2024.11    |
