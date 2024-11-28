@@ -18,6 +18,13 @@
 | 1   | Real MySQL 1권      | 백은빈, 이성욱 | 위키북스       | 2024    |
 
 
+### Presentation 
+
+| No.  | Title               |  Keywords  | Presented At |
+|------|---------------------|----------------|----------------|---------|
+| 1    | [Redis 분산 락 Deep-Dive](https://www.canva.com/design/DAGVN6DetjU/mnwdH7gKAJyBjOb2c4_waA/edit)   | Redis, 분산 락     |  2024.11  |
+
+
 ### Writes
 
 
