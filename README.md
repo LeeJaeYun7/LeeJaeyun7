@@ -44,3 +44,14 @@
 | 2   | [콘서트 예약 대기열 설계를 위한 조사](https://www.notion.so/12656c2f14698029b57ad790fcf08d59) | 콘서트 예약 서비스 | 대기열 설계, 대용량 트래픽 | 2024.11    |
 | 1   |['콘서트 좌석 5분간 선점 예약' 동시성 제어 보고서](https://github.com/LeeJaeYun7/concertTicket/blob/master/docs/CONCURRENCY_REPORT.md) | 콘서트 예약 서비스 | 데이터베이스 락 | 2024.11   |
 
+<!--
+#### 3) Programming Pattern  
+| No. | Title                                                     | Subject                          | Keywords |  Publish At | 
+|------| -----------------------------------------------------|----------------------------------|----------| ------------|
+| 6   | [대기 번호 조회 및 좌석 선점 기능 개선: Polling -> WebSocket](https://github.com/LeeJaeYun7/concertTicket/blob/master/docs/REDIS_WAITING_QUEUE_QUERY_REPORT.md) | 콘서트 예약 서비스 | Websocket, 대용량 트래픽 | 2024.11    |
+| 5   | ['최근 3일간 판매량 Top30 콘서트' 캐시 도입 보고서](https://github.com/LeeJaeYun7/concertTicket/blob/master/docs/CACHE_REPORT.md)| 콘서트 예약 서비스  | Redis, 캐시 | 2024.11    |
+| 4   | [Redis 서킷 브레이커 도입 보고서](https://github.com/LeeJaeYun7/concertTicket/blob/master/docs/REDIS_CIRCUIT_BREAKER.md) | 콘서트 예약 서비스 | Redis, MSA          | 2024.11    |
+| 3   | ['1만명 동시 접속자 레디스 대기열' 도입 보고서 1편](https://github.com/LeeJaeYun7/concertTicket/blob/master/docs/REDIS_WAITING_QUEUE_REPORT.md) | 콘서트 예약 서비스 | Redis, 대용량 트래픽 | 2024.11    |
+| 2   | [콘서트 예약 대기열 설계를 위한 조사](https://www.notion.so/12656c2f14698029b57ad790fcf08d59) | 콘서트 예약 서비스 | 대기열 설계, 대용량 트래픽 | 2024.11    |
+| 1   |['콘서트 좌석 5분간 선점 예약' 동시성 제어 보고서](https://github.com/LeeJaeYun7/concertTicket/blob/master/docs/CONCURRENCY_REPORT.md) | 콘서트 예약 서비스 | 데이터베이스 락 | 2024.11   |
+--!>
