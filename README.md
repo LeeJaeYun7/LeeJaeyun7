@@ -12,8 +12,8 @@
 
 | No.  | Book Title               | Author         | Publisher      | Read At |
 |------|--------------------------|----------------|----------------|---------|
-| 4   | 카프카 핵심 가이드                    | 그웬 샤피라     | 제이펍         | 2024    |
-| 3   | 가상 면접 사례로 배우는 대규모 시스템 설계 기초        | 알렉스 쉬         | 인사이트     | 2024    |
+| 4   | [카프카 핵심 가이드](https://bryandev.tistory.com/category/%EC%B9%B4%ED%94%84%EC%B9%B4%20%ED%95%B5%EC%8B%AC%20%EA%B0%80%EC%9D%B4%EB%93%9C)                    | 그웬 샤피라     | 제이펍         | 2024    |
+| 3   | [가상 면접 사례로 배우는 대규모 시스템 설계 기초](https://bryandev.tistory.com/category/%EA%B0%80%EC%83%81%20%EB%A9%B4%EC%A0%91%20%EC%82%AC%EB%A1%80%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%8C%80%EA%B7%9C%EB%AA%A8%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%84%A4%EA%B3%84%20%EA%B8%B0%EC%B4%88)        | 알렉스 쉬         | 인사이트     | 2024    |
 | 2   | [개발자를 위한 레디스](https://bryandev.tistory.com/category/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EB%A0%88%EB%94%94%EC%8A%A4) | 김가림         | 에이콘출판 | 2024    |
 | 1   | [Real MySQL 1권](https://bryandev.tistory.com/category/Real%20MySQL%201%EA%B6%8C)| 백은빈, 이성욱 | 위키북스       | 2024    |
 
