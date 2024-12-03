@@ -1,6 +1,6 @@
 # Hello, there!
 
-<div style="margin-bottom: 10px;">
+<div style="margin-bottom: 20px;">
     <div style="display: flex; justify-content: space-between; align-items: center;">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" width="100" height="35" />
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" width="100" height="35" />
