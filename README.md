@@ -38,6 +38,8 @@
 #### 2) 프로젝트 문서 
 | No. | Title                                                     | Subject                          | Keywords |  Publish At | 
 |------| -----------------------------------------------------|----------------------------------|----------| ------------|
+| 8   | [MSA 기반 서비스 분리 시, Transactional Outbox Pattern 적용 보고서](https://github.com/LeeJaeYun7/concertTicket/blob/master/docs/MSA_KAFKA_TRANSACTIONAL_OUTBOX_PATTERN.md) | 콘서트 예약 서비스 | MSA, Transactional Outbox PAttern | 2024.11    |
+| 7   | [MSA 기반 서비스 분리 시, Saga 패턴을 활용한 분산 트랜잭션 적용 보고서](https://github.com/LeeJaeYun7/concertTicket/blob/master/docs/MSA_SAGA_PATTERN_REPORT.md) | 콘서트 예약 서비스 | MSA, 분산 트랜잭션 | 2024.11    |
 | 6   | [대기 번호 조회 및 좌석 선점 기능 개선: Polling -> WebSocket](https://github.com/LeeJaeYun7/concertTicket/blob/master/docs/REDIS_WAITING_QUEUE_QUERY_REPORT.md) | 콘서트 예약 서비스 | Websocket, 대용량 트래픽 | 2024.11    |
 | 5   | ['최근 3일간 판매량 Top30 콘서트' 캐시 도입 보고서](https://github.com/LeeJaeYun7/concertTicket/blob/master/docs/CACHE_REPORT.md)| 콘서트 예약 서비스  | Redis, 캐시 | 2024.11    |
 | 4   | [Redis 서킷 브레이커 도입 보고서](https://github.com/LeeJaeYun7/concertTicket/blob/master/docs/REDIS_CIRCUIT_BREAKER.md) | 콘서트 예약 서비스 | Redis, MSA          | 2024.11    |
