@@ -19,7 +19,7 @@
 
 | No.  | Book Title               | Author         | Publisher      | Read At |
 |------|--------------------------|----------------|----------------|---------|
-| 6   | [Introduction to Algorithms](https://bryandev.tistory.com/category/Introduction%20to%20Algorithms)                    | Thomas H. Cormen    | 한빛 아카데미         | 2024    |
+| 6   | [Introduction to Algorithms](https://bryandev.tistory.com/category/Introduction%20to%20Algorithms)               | Thomas H. Cormen    | 한빛 아카데미         | 2024    |
 
 | 5   | [데이터 중심 어플리케이션 설계](https://bryandev.tistory.com/category/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A4%91%EC%8B%AC%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%84%A4%EA%B3%84)                    | 마틴 클레프만     | 위키북스         | 2024    |
 | 4   | [카프카 핵심 가이드](https://bryandev.tistory.com/category/%EC%B9%B4%ED%94%84%EC%B9%B4%20%ED%95%B5%EC%8B%AC%20%EA%B0%80%EC%9D%B4%EB%93%9C)                    | 그웬 샤피라     | 제이펍         | 2024    |
