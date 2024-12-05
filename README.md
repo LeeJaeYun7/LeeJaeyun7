@@ -59,6 +59,7 @@
 | 4   | ['1만명 동시 접속자 레디스 대기열' 도입 보고서 1편](https://github.com/LeeJaeYun7/concertTicket/blob/master/docs/REDIS_WAITING_QUEUE_REPORT.md) | 콘서트 예약 서비스 | Redis, 대용량 트래픽 | 2024.11    |
 | 3   | [콘서트 예약 대기열 설계를 위한 조사](https://www.notion.so/12656c2f14698029b57ad790fcf08d59) | 콘서트 예약 서비스 | 대기열 설계, 대용량 트래픽 | 2024.11    |
 | 2   |['콘서트 좌석 5분간 선점 예약' 동시성 제어 보고서](https://github.com/LeeJaeYun7/concertTicket/blob/master/docs/CONCURRENCY_REPORT.md) | 콘서트 예약 서비스 | 데이터베이스 락 | 2024.11   |
+| 2   |[로그인 시 JWT Access Token, Refresh Token 적용하기(with Redis) - 1부](https://bryandev.tistory.com/1398) | 개발자 모의 면접 서비스 | JWT Token, Refresh Token | 2023.09   |
 | 1   |[SSE 댓글 알림 기능 개발](https://bryandev.tistory.com/1396) | 개발자 모의 면접 서비스 | SSE, Websocket | 2023.09   |
 
 <!--
