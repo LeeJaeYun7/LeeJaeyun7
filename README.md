@@ -19,6 +19,7 @@
 
 | No.  | Book Title               | Author         | Publisher      | Read At |
 |------|--------------------------|----------------|----------------|---------|
+| 8   | [단위 테스트](https://bryandev.tistory.com/category/%EB%8B%A8%EC%9C%84%20%ED%85%8C%EC%8A%A4%ED%8A%B8)               | 블라디미르 코리코프    | 에이콘         | 2024    |
 | 7   | [Effective Java](https://bryandev.tistory.com/category/Effective%20Java)               | 조슈아 블로크    | 프로그래밍 인사이트         | 2024    |
 | 6   | [Introduction to Algorithms](https://bryandev.tistory.com/category/Introduction%20to%20Algorithms)               | Thomas H. Cormen    | 한빛 아카데미         | 2024    |
 | 5   | [데이터 중심 어플리케이션 설계](https://bryandev.tistory.com/category/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A4%91%EC%8B%AC%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%84%A4%EA%B3%84)                    | 마틴 클레프만     | 위키북스         | 2024    |
