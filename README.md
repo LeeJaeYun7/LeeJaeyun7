@@ -40,6 +40,7 @@
 #### 1) 기술 발표 리뷰 
 | No. |  Title                                                        | Keywords                         | Publish At |
 |------| --------------------------------------------------------------|----------------------------------|------------|
+| 3    | [토스ㅣSLASH 21 - 토스 서비스를 구성하는 서버 기술] | Kafka           | 2024.11    |
 | 2    | [신뢰성 있는 카프카 애플리케이션을 만드는 3가지 방법 (최원영 Cory)](https://velog.io/@s2feeling/%EC%8B%A0%EB%A2%B0%EC%84%B1-%EC%9E%88%EB%8A%94-%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%84-%EB%A7%8C%EB%93%9C%EB%8A%94-3%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-%EC%98%81%EC%83%81-%EB%A6%AC%EB%B7%B0) | Kafka           | 2024.11    |
 | 1    |[토스 SLASH 24, 보상 트랜잭션으로 분산 환경에서도 안전하게 환전하기](https://velog.io/@s2feeling/%ED%86%A0%EC%8A%A4%E3%85%A3SLASH-24-%EB%B3%B4%EC%83%81-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%9C%BC%EB%A1%9C-%EB%B6%84%EC%82%B0-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EB%8F%84-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%ED%99%98%EC%A0%84%ED%95%98%EA%B8%B0-%EB%A6%AC%EB%B7%B0-y53ctbb7) | MSA, Saga 패턴, Kafka           | 2024.11    |
 
