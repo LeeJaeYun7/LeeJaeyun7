@@ -19,6 +19,7 @@
 
 | No.  | Book Title               | Author         | Publisher      | Read At |
 |------|--------------------------|----------------|----------------|---------|
+| 10   | [모던 자바 인 액션](https://bryandev.tistory.com/category/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%20%EC%9D%B8%20%EC%95%A1%EC%85%98)        | 라울-게이브리얼 우르마    | 한빛미디어         | 2024    |
 | 9   | [마이크로서비스 패턴 ](https://bryandev.tistory.com/category/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%ED%8C%A8%ED%84%B4)        | 크리스 리처드슨    | 길벗         | 2024    |
 | 8   | [단위 테스트](https://bryandev.tistory.com/category/%EB%8B%A8%EC%9C%84%20%ED%85%8C%EC%8A%A4%ED%8A%B8)               | 블라디미르 코리코프    | 에이콘         | 2024    |
 | 7   | [Effective Java](https://bryandev.tistory.com/category/Effective%20Java)               | 조슈아 블로크    | 프로그래밍 인사이트         | 2024    |
