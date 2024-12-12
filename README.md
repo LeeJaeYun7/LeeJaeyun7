@@ -19,6 +19,7 @@
 
 | No.  | Book Title               | Author         | Publisher      | Read At |
 |------|--------------------------|----------------|----------------|---------|
+| 11   | [운영체제와 정보기술의 원리](https://bryandev.tistory.com/category/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%99%80%20%EC%A0%95%EB%B3%B4%EA%B8%B0%EC%88%A0%EC%9D%98%20%EC%9B%90%EB%A6%AC)        | 반효경    | 이화여자대학교출판문화원         | 2024    |
 | 10   | [모던 자바 인 액션](https://bryandev.tistory.com/category/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%20%EC%9D%B8%20%EC%95%A1%EC%85%98)        | 라울-게이브리얼 우르마    | 한빛미디어         | 2024    |
 | 9   | [마이크로서비스 패턴 ](https://bryandev.tistory.com/category/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%ED%8C%A8%ED%84%B4)        | 크리스 리처드슨    | 길벗         | 2024    |
 | 8   | [단위 테스트](https://bryandev.tistory.com/category/%EB%8B%A8%EC%9C%84%20%ED%85%8C%EC%8A%A4%ED%8A%B8)               | 블라디미르 코리코프    | 에이콘         | 2024    |
