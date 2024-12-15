@@ -72,6 +72,7 @@
 | 5   |['콘서트 좌석 5분간 선점 예약' 동시성 제어 보고서](https://github.com/LeeJaeYun7/concertTicket/blob/master/docs/CONCURRENCY_REPORT.md) | 콘서트 예약 서비스 | 데이터베이스 락 | 2024.10   |
 | 4   |[Jenkins로 CI/CD 구축하기 (1)](https://bryandev.tistory.com/1427) | 개발자 모의 면접 서비스 | CI/CD, Jenkins | 2023.09   |
 | 3   |[Spring에서 Mysql Replication으로 Master/Slave 이중화하기](https://bryandev.tistory.com/1393) | 개발자 모의 면접 서비스 | MySQL, Replication | 2023.09   |
+| 3   |[Mysql Named Lock으로 좋아요 기능에 대한 동시성 처리하기](https://bryandev.tistory.com/1397) | 개발자 모의 면접 서비스 | 동시성, Mysql Named Lock | 2023.09   |
 | 2   |[로그인 시 JWT Access Token, Refresh Token 적용하기(with Redis) - 1부](https://bryandev.tistory.com/1398) | 개발자 모의 면접 서비스 | JWT Token, Refresh Token | 2023.09   |
 | 1   |[SSE 댓글 알림 기능 개발](https://bryandev.tistory.com/1396) | 개발자 모의 면접 서비스 | SSE, Websocket | 2023.09   |
 
