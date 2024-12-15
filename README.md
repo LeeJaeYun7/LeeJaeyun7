@@ -17,7 +17,7 @@
 
 ### Reads
 
-| No.  | Book Title               | Author         | Publisher      | Read At |
+| No.  | Title               | Author         | Publisher      | Read At |
 |------|--------------------------|----------------|----------------|---------|
 | 15   | [MySQL Reference Manual](https://bryandev.tistory.com/category/Mysql%20Reference%20Manual)        | -    | -         | 2024    |
 | 14   | [오브젝트](https://bryandev.tistory.com/category/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8)        | 조영호    | 위키북스         | 2024    |
