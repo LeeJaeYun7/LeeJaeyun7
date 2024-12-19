@@ -19,8 +19,9 @@
 
 | No.  | Title               | Author         | Publisher      | Read At |
 |------|--------------------------|----------------|----------------|---------|
-| 16   | [MySQL Reference Manual](https://bryandev.tistory.com/category/Mysql%20Reference%20Manual)        | -    | -         | 2024    |
-| 15   | [토비의 스프링](https://bryandev.tistory.com/category/%ED%86%A0%EB%B9%84%EC%9D%98%20%EC%8A%A4%ED%94%84%EB%A7%81)        | 이일민    | 에이콘         | 2024    |
+| 17   | [MySQL Reference Manual](https://bryandev.tistory.com/category/Mysql%20Reference%20Manual)        | -    | -         | 2024    |
+| 16   | [토비의 스프링](https://bryandev.tistory.com/category/%ED%86%A0%EB%B9%84%EC%9D%98%20%EC%8A%A4%ED%94%84%EB%A7%81)        | 이일민    | 에이콘         | 2024    |
+| 15   | [스프링 입문을 위한 자바 객체 지향의 원리와 이해](https://bryandev.tistory.com/manage/posts?category=1216578)        | 김종민    | 위키북스         | 2024    |
 | 14   | [오브젝트](https://bryandev.tistory.com/category/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8)        | 조영호    | 위키북스         | 2024    |
 | 13   | [JVM Performance Optimizing 및 성능분석 사례](https://bryandev.tistory.com/category/JVM%20Performance%20Optimizing%20%EB%B0%8F%20%EC%84%B1%EB%8A%A5%EB%B6%84%EC%84%9D%EC%82%AC%EB%A1%80)        | 류길현, 오명훈, 한승민    | exem         | 2024    |
 | 12   | [자바 ORM 표준 JPA 프로그래밍](https://bryandev.tistory.com/category/%EC%9E%90%EB%B0%94%20ORM%20%ED%91%9C%EC%A4%80%20JPA%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)        | 김영한    | 에이콘         | 2024    |
