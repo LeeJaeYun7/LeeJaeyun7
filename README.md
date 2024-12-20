@@ -19,6 +19,7 @@
 
 | No.  | Title               | Author         | Publisher      | Read At |
 |------|--------------------------|----------------|----------------|---------|
+| 19   | [CS Fundamental](https://bryandev.tistory.com/category/CS%20Fundamental)        | -    | -         | 2024    |
 | 18   | [Naver D2](https://bryandev.tistory.com/category/Naver%20D2)        | -    | -         | 2024    |
 | 17   | [MySQL Reference Manual](https://bryandev.tistory.com/category/Mysql%20Reference%20Manual)        | -    | -         | 2024    |
 | 16   | [토비의 스프링](https://bryandev.tistory.com/category/%ED%86%A0%EB%B9%84%EC%9D%98%20%EC%8A%A4%ED%94%84%EB%A7%81)        | 이일민    | 에이콘         | 2024    |
