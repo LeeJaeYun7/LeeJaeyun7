@@ -19,9 +19,9 @@
 
 | No.  | Title               | Author         | Publisher      | Read At |
 |------|--------------------------|----------------|----------------|---------|
-| 21   | [CS Fundamental](https://bryandev.tistory.com/category/CS%20Fundamental)        | -    | -         | 2024    |
-| 20   | [Naver D2](https://bryandev.tistory.com/category/Naver%20D2)        | -    | -         | 2024    |
-| 19   | [MySQL Reference Manual](https://bryandev.tistory.com/category/Mysql%20Reference%20Manual)        | -    | -         | 2024    |
+| 22   | [CS Fundamental](https://bryandev.tistory.com/category/CS%20Fundamental)        | -    | -         | 2024    |
+| 21   | [Naver D2](https://bryandev.tistory.com/category/Naver%20D2)        | -    | -         | 2024    |
+| 20   | [MySQL Reference Manual](https://bryandev.tistory.com/category/Mysql%20Reference%20Manual)        | -    | -         | 2024    |
 | 19   | [더 자바 - Java 8](https://bryandev.tistory.com/category/%EB%8D%94%20%EC%9E%90%EB%B0%94%2C%20Java%208)        | 백기선   | 인프런       | 2024    |
 | 18   | [스프링 핵심 원리 - 기본편](https://bryandev.tistory.com/category/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC%20-%20%EA%B8%B0%EB%B3%B8%ED%8E%B8)        | 김영한   | 인프런       | 2024    |
 | 17   | [자바의 정석](https://bryandev.tistory.com/category/%EC%9E%90%EB%B0%94%EC%9D%98%20%EC%A0%95%EC%84%9D)        | 남궁성    | 도우출판         | 2024    |
