@@ -19,9 +19,10 @@
 
 | No.  | Title               | Author         | Publisher      | Read At |
 |------|--------------------------|----------------|----------------|---------|
-| 23   | [CS Fundamental](https://bryandev.tistory.com/category/CS%20Fundamental)        | -    | -         | 2024    |
-| 22   | [Naver D2](https://bryandev.tistory.com/category/Naver%20D2)        | -    | -         | 2024    |
-| 21   | [MySQL Reference Manual](https://bryandev.tistory.com/category/Mysql%20Reference%20Manual)        | -    | -         | 2024    |
+| 24   | [CS Fundamental](https://bryandev.tistory.com/category/CS%20Fundamental)        | -    | -         | 2024    |
+| 23   | [Naver D2](https://bryandev.tistory.com/category/Naver%20D2)        | -    | -         | 2024    |
+| 22   | [MySQL Reference Manual](https://bryandev.tistory.com/category/Mysql%20Reference%20Manual)        | -    | -         | 2024    |
+| 21   | [테크니컬 리더](https://bryandev.tistory.com/category/%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC%20%EB%A6%AC%EB%8D%94)        | 제럴드 와인버그   | 인사이트       | 2024    |
 | 20   | [스프링 핵심 원리 - 기본편](https://bryandev.tistory.com/category/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC%20-%20%EA%B8%B0%EB%B3%B8%ED%8E%B8)        | 김영한   | 인프런       | 2024    |
 | 19   | [쉽게 배우는 운영체제](https://bryandev.tistory.com/category/%EC%89%BD%EA%B2%8C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)        | 조성호   | 한빛아카데미       | 2024    |
 | 18   | [자바 최적화](https://bryandev.tistory.com/category/%EC%9E%90%EB%B0%94%20%EC%B5%9C%EC%A0%81%ED%99%94)        | 벤저민 J.에번스    | 한빛미디어         | 2024    |
