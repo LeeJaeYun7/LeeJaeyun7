@@ -19,6 +19,7 @@
 
 | No.  | Title               | Author         | Publisher      | Read At |
 |------|--------------------------|----------------|----------------|---------|
+| 27   | [Node.js 교과서](https://bryandev.tistory.com/category/Node.js%20%EA%B5%90%EA%B3%BC%EC%84%9C)        | -    | -         | 2024    |
 | 26   | [CS Fundamental](https://bryandev.tistory.com/category/CS%20Fundamental)        | -    | -         | 2024    |
 | 25   | [Naver D2](https://bryandev.tistory.com/category/Naver%20D2)        | -    | -         | 2024    |
 | 24   | [MySQL Reference Manual](https://bryandev.tistory.com/category/Mysql%20Reference%20Manual)        | -    | -         | 2024    |
