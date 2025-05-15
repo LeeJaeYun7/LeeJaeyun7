@@ -19,7 +19,7 @@
 
 | No.  | Title               | Author         | Publisher      | Read At |
 |------|--------------------------|----------------|----------------|---------|
-| 29   | [성공하는 사람들의 7가지 습](https://bryandev.tistory.com/category/%EC%84%B1%EA%B3%B5%ED%95%98%EB%8A%94%20%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%98%207%EA%B0%80%EC%A7%80%20%EC%8A%B5%EA%B4%80)        | 스티븐 코비    | 김영사         | 2025    |
+| 29   | [성공하는 사람들의 7가지 습관](https://bryandev.tistory.com/category/%EC%84%B1%EA%B3%B5%ED%95%98%EB%8A%94%20%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%98%207%EA%B0%80%EC%A7%80%20%EC%8A%B5%EA%B4%80)        | 스티븐 코비    | 김영사         | 2025    |
 | 28   | [LLM을 활용한 실전 AI 애플리케이션 개발](https://bryandev.tistory.com/category/LLM%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%8B%A4%EC%A0%84%20AI%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EA%B0%9C%EB%B0%9C)        | 허정준    | 책만         | 2025    |
 | 27   | [Node.js 교과서](https://bryandev.tistory.com/category/Node.js%20%EA%B5%90%EA%B3%BC%EC%84%9C)        | 조현영    | 길벗         | 2025    |
 | 26   | [CS Fundamental](https://bryandev.tistory.com/category/CS%20Fundamental)        | -    | -         | 2024    |
