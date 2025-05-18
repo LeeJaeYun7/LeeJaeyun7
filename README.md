@@ -19,6 +19,7 @@
 
 | No.  | Title               | Author         | Publisher      | Read At |
 |------|--------------------------|----------------|----------------|---------|
+| 32   | [함께 자라기](https://bryandev.tistory.com/category/%ED%95%A8%EA%BB%98%20%EC%9E%90%EB%9D%BC%EA%B8%B0)        | 김창준    | 인사이트         | 2025    |
 | 31   | [마인드셋](https://bryandev.tistory.com/category/%EB%A7%88%EC%9D%B8%EB%93%9C%EC%85%8B)        | 캐럴 드웩    | 스몰빅라이프         | 2025    |
 | 30   | [RabbitMQ in depth](https://bryandev.tistory.com/category/RabbitMQ%20in%20depth)        | 개빈 로이    | 에이콘         | 2025    |
 | 29   | [성공하는 사람들의 7가지 습관](https://bryandev.tistory.com/category/%EC%84%B1%EA%B3%B5%ED%95%98%EB%8A%94%20%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%98%207%EA%B0%80%EC%A7%80%20%EC%8A%B5%EA%B4%80)        | 스티븐 코비    | 김영사         | 2025    |
